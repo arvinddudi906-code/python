@@ -1,1 +1,6 @@
 print("hii\nhello")
+print("the backbenher\tboys")
+print("trades\ftitles")
+print("You'are not a good person")
+print("world lines\b are busy")
+print("may\r you are right")
