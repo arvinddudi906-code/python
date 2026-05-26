@@ -1,0 +1,9 @@
+h="44555555555555"
+h=int(h)
+print(h)
+k=4568
+k=float(k)
+print(k)
+m=324.3
+m=int(m)
+print(m)
